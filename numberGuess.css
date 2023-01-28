@@ -92,3 +92,12 @@ body {
 #remaining-guesses{
     color: green;
 }
+p{
+    line-height: 22px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(43, 60, 209);
+    font-family: cursive;
+}
